@@ -1,0 +1,15 @@
+Metadata-Version: 2.2
+Name: qkdsim
+Version: 1.0
+Summary: Quantum Key Distribution Simulation Library
+Home-page: https://github.com/cotaylor/qkdsim
+Author: Conner Taylor
+Author-email: cmtaylor15@gmail.com
+License-File: LICENSE
+Requires-Dist: qit
+Requires-Dist: pycrypto
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: summary
