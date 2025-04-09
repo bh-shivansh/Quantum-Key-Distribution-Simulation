@@ -5,7 +5,7 @@ setup(name='qkdsim',
       description='Quantum Key Distribution Simulation Library',
       author='Shivansh Bhardwaj',
       author_email='shbhardwaj020@gmail.com',
-      url='https://github.com/cotaylor/qkdsim',
+      url='https://github.com/bh-shivansh/Quantum-Key-Distribution-Simulation',
       packages=find_packages(),
       install_requires=[
           'qit',
